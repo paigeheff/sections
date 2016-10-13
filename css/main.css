@@ -1,0 +1,45 @@
+html {
+  background-color: #f2f2f2;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+a:link {
+  background-color: #f2f2f2;
+
+
+
+a:hover {
+  color: #f2f2f2;
+  background-color: #666
+
+
+}
+
+
+
+
+
+
+
+
+
+
+*Typefaces:* `Lato`
+- *Maximum width on section inner boxes:* `25em`
+- *Colours:* `#666`, `#333`, `#f2f2f2`
+- *Paddings:* `1em`, `2em`, `0.4em 0.75em 0.5em`
+- *Margins:* `1.5rem`
+- *Line-height:* `1.5`
