@@ -4,15 +4,20 @@ html {
   line-height: 1.5;
   max-width: 25em;
   margin: 1.5rem auto;
+  box-sizing: border-box;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-.container {
-  max-width: 25em;
+head{
   margin: 0 auto;
+
+}
+
+.container img {
+  margin: 0 auto 1.5rem auto;
 }
 
 h1 {
@@ -25,6 +30,7 @@ p {
   vertical-align: middle;
   padding: 0.4em 0.75em 0.5rem;
   width: auto;
+  float: right;
 }
 
 a:link {
