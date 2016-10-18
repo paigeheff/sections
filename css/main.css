@@ -11,30 +11,26 @@ html {
   box-sizing: inherit;
 }
 
-head{
-  margin: 0 auto;
-}
-
 body {
   text-align: left;
+  margin: 0;
 }
-#container img {
-  margin: 0 auto 1.5rem auto;
-  height: 100%;
+
+.container {
+  display: inline;
+}
+
+img {
   width: 100%;
-  display: block;
 }
 
 h2 {
-  text-align: center;
   padding: 1em;
 }
 
 p {
-  margin: 1.5rem auto;
-  vertical-align: middle;
+  margin: 1.5rem;
   padding: 0.4em 0.75em 0.5rem;
-  width: auto;
 }
 
 a:link {
